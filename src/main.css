@@ -1,0 +1,43 @@
+body{
+    background-image: url('../img/adesivos.jpg');
+    background-size: 215px;
+    background-repeat: round;
+    background-size: 100%;
+}
+#principal{
+    background-color: black;
+    min-height: 100vh;
+    padding-top: 55px;
+}
+.slide{
+    min-width: 100%;
+}
+.carousel-item img{
+    margin: auto;
+}
+.col img{
+    width: 100%;
+    margin: auto;
+}
+.marcas{
+    margin-top: 25px;
+}
+section#produtos{
+    min-height: 100vh;
+}
+html {
+    scroll-behavior: smooth;
+}
+.rodape{
+    background-color: dimgray;
+    width: 100%;
+    border-radius: 10px;
+}
+.icons{
+    width: 30px; 
+    float: left; 
+    margin-right: 5px;
+}
+a:hover{
+    cursor:pointer;
+}
